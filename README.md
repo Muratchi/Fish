@@ -9,7 +9,8 @@ Dengiken SNS
 |- grade<br>
 |- role<br>
 |- attending rate<br>
-|- achievement<br>**
+|- achievement<br>
+|- goodat**
 
 ### Contribution
 
